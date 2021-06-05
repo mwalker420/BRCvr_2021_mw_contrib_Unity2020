@@ -1,7 +1,7 @@
 # BRCvr 2021 Contribution Project
 This is a Unity project containing contributions to the [BRCvr](https://brcvr.org) event for 2021. It's my trial-by-fire attempt to get into 3D Modeling, Shader development and VR in general.
 
-This Unity project is based on Unity version 2020.3.9 with unity-uploader verision 0.9.2
+This Unity project is based on Unity version 2020.3.9 with unity-uploader verision 0.9.2 for deployment to [AltspaceVR](https://altvr.com).
 
 I'm using [Amplify Shader Editor](http://amplify.pt/unity/amplify-shader-editor/) for learning and development.
 
