@@ -896,7 +896,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 01504edf0a55d428799e1c92638b4f87, type: 2}
+      objectReference: {fileID: 2100000, guid: 61bd26c37e8444a9e84fb98396ce43f3, type: 2}
     - target: {fileID: -7971063329109879409, guid: 62f22ce098bff4c1790ae299d9df6bbc,
         type: 3}
       propertyPath: m_Layer
@@ -1341,7 +1341,9 @@ TextMesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1384291740}
-  m_Text: BRCvr_2021_mw_contribution_Unity2020.9.3 - v0.0.4
+  m_Text: 'BRCvr_2021_mw_contribution_Unity2020.9.3
+
+    v0.0.5'
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
@@ -1501,7 +1503,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 071565943cfd746de92f62b5b8bb013f, type: 2}
+      objectReference: {fileID: 2100000, guid: 0baa3a0489a09481bac4b6fd3d1f66c2, type: 2}
     - target: {fileID: -7971063329109879409, guid: 62f22ce098bff4c1790ae299d9df6bbc,
         type: 3}
       propertyPath: m_Layer
@@ -2302,12 +2304,12 @@ PrefabInstance:
     - target: {fileID: 7171054969364777018, guid: bbb8d5ee54ebb4418bce57e71c874390,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 7.9
+      value: -0.0024343356
       objectReference: {fileID: 0}
     - target: {fileID: 7171054969364777018, guid: bbb8d5ee54ebb4418bce57e71c874390,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 3.84
+      value: -0.003792286
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbb8d5ee54ebb4418bce57e71c874390, type: 3}
