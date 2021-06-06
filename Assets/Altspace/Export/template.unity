@@ -1343,7 +1343,7 @@ TextMesh:
   m_GameObject: {fileID: 1384291740}
   m_Text: 'BRCvr_2021_mw_contribution_Unity2020.9.3
 
-    v0.0.5'
+    v0.0.8'
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
@@ -2261,6 +2261,11 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: ec3c80652beea4c748ac81d58240de5f, type: 2}
+    - target: {fileID: -7054873326058567227, guid: bbb8d5ee54ebb4418bce57e71c874390,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 57b51b1abcf8c42798cc0fc8cb2d4bb3, type: 2}
     - target: {fileID: -6053757327779360133, guid: bbb8d5ee54ebb4418bce57e71c874390,
         type: 3}
       propertyPath: m_Layer
@@ -2271,6 +2276,11 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: ec3c80652beea4c748ac81d58240de5f, type: 2}
+    - target: {fileID: -3887406245731854013, guid: bbb8d5ee54ebb4418bce57e71c874390,
+        type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 57b51b1abcf8c42798cc0fc8cb2d4bb3, type: 2}
     - target: {fileID: -2787714905931788617, guid: bbb8d5ee54ebb4418bce57e71c874390,
         type: 3}
       propertyPath: m_Layer
@@ -2291,11 +2301,21 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: ec3c80652beea4c748ac81d58240de5f, type: 2}
+    - target: {fileID: 935862809063802248, guid: bbb8d5ee54ebb4418bce57e71c874390,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 57b51b1abcf8c42798cc0fc8cb2d4bb3, type: 2}
     - target: {fileID: 4113163355828549537, guid: bbb8d5ee54ebb4418bce57e71c874390,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: ec3c80652beea4c748ac81d58240de5f, type: 2}
+    - target: {fileID: 4113163355828549537, guid: bbb8d5ee54ebb4418bce57e71c874390,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 57b51b1abcf8c42798cc0fc8cb2d4bb3, type: 2}
     - target: {fileID: 6863691615877616623, guid: bbb8d5ee54ebb4418bce57e71c874390,
         type: 3}
       propertyPath: m_Layer
