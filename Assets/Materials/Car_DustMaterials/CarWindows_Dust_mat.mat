@@ -79,7 +79,7 @@ Material:
     - _Mode: 0
     - _NoiseContrast: 2.6
     - _NoiseMax: 0.9351386
-    - _NoiseMin: 0.7623329
+    - _NoiseMin: 0.816
     - _NoiseScaleDust: 105.682
     - _OcclusionStrength: 1
     - _Parallax: 0.02
