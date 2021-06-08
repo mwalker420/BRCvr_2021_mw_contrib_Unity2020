@@ -1673,7 +1673,7 @@ TextMesh:
   m_GameObject: {fileID: 1384291740}
   m_Text: 'BRCvr_2021_mw_contribution_Unity2020.9.3
 
-    v0.0.10'
+    v0.0.11'
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
