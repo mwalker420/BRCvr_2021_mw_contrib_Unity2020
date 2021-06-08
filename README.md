@@ -8,3 +8,5 @@ I'm using [Amplify Shader Editor](http://amplify.pt/unity/amplify-shader-editor/
 You can find blender source files in [Assets/Blender](Assets/Blender) for the various models.
 
 This is all pretty new to me so if there are any suggestions for improvement please leave me a note.
+
+You can find this world on Altspace [https://account.altvr.com/worlds/1706931531869586246/spaces/1749710479829238671](https://account.altvr.com/worlds/1706931531869586246/spaces/1749710479829238671) or enter world code: AEX679
