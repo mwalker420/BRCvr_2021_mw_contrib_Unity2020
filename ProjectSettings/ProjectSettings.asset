@@ -147,7 +147,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Android: com.LamplightProductions.BRCvr_2021_mw
-    Standalone: com.DefaultCompany.BRCvr2021mw
+    Standalone: com.LamplightProductions.BRCvr2021mw
     Tizen: com.Company.ProductName
     iPhone: com.DefaultCompany.BRCvr2021mw
     tvOS: com.Company.ProductName

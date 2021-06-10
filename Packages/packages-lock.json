@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.microsoft.altspacevr_uploader": {
-      "version": "file:/Users/markwalker/Documents/UnityProjects/AltSpaceVR/com.microsoft.altspacevr_uploader-0.9.2.tgz",
+      "version": "file:/Users/markwalker/Documents/UnityProjects/AltSpaceVR/com.microsoft.altspacevr_uploader-0.9.3.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {

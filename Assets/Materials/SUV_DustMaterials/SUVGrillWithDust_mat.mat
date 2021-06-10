@@ -85,5 +85,6 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Color0: {r: 0.8490566, g: 0.78229135, b: 0.49261305, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _GrillDirection: {r: 0, g: 0, b: 1, a: 0}
     - _HighlightColor: {r: 0.86274517, g: 0.7490196, b: 0.55294114, a: 1}
   m_BuildTextureStacks: []
