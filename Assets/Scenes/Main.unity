@@ -942,6 +942,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 14
       objectReference: {fileID: 0}
+    - target: {fileID: -7899018413623382602, guid: c95ac44b1f43645a2a36f2aa66162ae7,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -7836983271220150265, guid: c95ac44b1f43645a2a36f2aa66162ae7,
         type: 3}
       propertyPath: m_Layer
@@ -964,9 +969,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -7472949069391922726, guid: c95ac44b1f43645a2a36f2aa66162ae7,
         type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: -7472949069391922726, guid: c95ac44b1f43645a2a36f2aa66162ae7,
+        type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 836b45b7a830e4a95b3bf83884862839, type: 2}
+    - target: {fileID: -7306809423191236605, guid: c95ac44b1f43645a2a36f2aa66162ae7,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: -7306809423191236605, guid: c95ac44b1f43645a2a36f2aa66162ae7,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -1037,11 +1052,21 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: a6995efcd3ba04d578190e5659b2dc2a, type: 2}
+    - target: {fileID: -551596397242940177, guid: c95ac44b1f43645a2a36f2aa66162ae7,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: -460436927275384429, guid: c95ac44b1f43645a2a36f2aa66162ae7,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 18eb68c5b26274254b6a665355b74e0f, type: 2}
+    - target: {fileID: -235893500680383113, guid: c95ac44b1f43645a2a36f2aa66162ae7,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: -235893500680383113, guid: c95ac44b1f43645a2a36f2aa66162ae7,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -1988,7 +2013,7 @@ TextMesh:
   m_GameObject: {fileID: 1384291740}
   m_Text: 'BRCvr_2021_mw_contribution_Unity2020.9.3
 
-    v0.0.16
+    v0.0.18
 
 '
   m_OffsetZ: 0
@@ -2099,7 +2124,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 62f22ce098bff4c1790ae299d9df6bbc,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.97779894
+      value: 0.98503274
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 62f22ce098bff4c1790ae299d9df6bbc,
         type: 3}
@@ -2109,7 +2134,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 62f22ce098bff4c1790ae299d9df6bbc,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.20954536
+      value: -0.17236754
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 62f22ce098bff4c1790ae299d9df6bbc,
         type: 3}
@@ -2124,7 +2149,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 62f22ce098bff4c1790ae299d9df6bbc,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -24.191
+      value: -19.851
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 62f22ce098bff4c1790ae299d9df6bbc,
         type: 3}
