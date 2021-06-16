@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: SUVGrill_mat
+  m_Name: StepVanGrill_mat
   m_Shader: {fileID: 4800000, guid: 3e9cf44d43a0c457894fae3c32032952, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
