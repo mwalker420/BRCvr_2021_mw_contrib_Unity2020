@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: custom_RGBRemapShader 1
-  m_Shader: {fileID: 4800000, guid: 3721720c5b5a24ecf9654190388b46cb, type: 3}
+  m_Shader: {fileID: 4800000, guid: b793644e386804ca19031b84222e7f6a, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -28,9 +28,19 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
+    - _BaseCarMetallic: 0
+    - _BaseCarSmoothess: -1
+    - _DustCoverage: 1
+    - _NoiseContrast: 5.5715
+    - _NoiseMax: 1
+    - _NoiseMin: 0.9058824
+    - _NoiseScaleDust: 86.644
     - __dirty: 0
     m_Colors:
     - _BaseColor: {r: 0.7264151, g: 0.67673105, b: 0.627047, a: 1}
+    - _DustColor: {r: 1, g: 0.8705882, b: 0.6666667, a: 0}
+    - _DustDirectionNormal: {r: 0, g: 1, b: 0, a: 0}
+    - _FresnelProps: {r: 0, g: 0, b: 0, a: 0}
     - _RemapBColor: {r: 0, g: 0, b: 0, a: 0}
     - _RemapGColor: {r: 0.41568628, g: 0.13279447, b: 0.10196078, a: 0}
     - _RemapRColor: {r: 0.3921569, g: 0.37254903, b: 0.3372549, a: 1}
